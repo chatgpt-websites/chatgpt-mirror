@@ -1,4 +1,4 @@
-# 国内 ChatGPT-4 中文版镜像网站汇总整理（2025/02/22）【镜像网站合集】  
+# 国内 ChatGPT-4 中文版镜像网站汇总整理（2025/02/25）【镜像网站合集】  
 
 给大家整理了一些国内的 **ChatGPT 中文版**，可以直接用的 **ChatGPT中文版镜像网站**
 
@@ -18,8 +18,8 @@
 
 ## 国内推荐的 ChatGPT镜像网站
 
-- [www.yixiaai.com](https://www.yixiaai.com/) - 2023年3月国内第一批上线，一直稳定运行，支持 GPT4、4o 以及 o1，支持 MJ 绘画
-- [chat.lify.vip](https://chat.lify.vip/) - 运营快2年，支持 GPT4、4o 以及 o1，AI文件、AI PPT、AI助手、AI插件功能、思维导图~
+- [chat.yixiaai.com](https://chat.yixiaai.com/) - 2023年3月国内第一批上线，一直稳定运行，支持 GPT4、4o 以及 o1，支持 MJ 绘画
+- [chat.lify.vip](https://www.yixiaai.com/) - 运营快2年，支持 GPT4、4o 以及 o1，AI文件、AI PPT、AI助手、AI插件功能、思维导图~
 - [guide1.lanjing.ai](https://guide1.lanjing.ai/) - 运营1年多，支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）
 - [ai.lansejingyu.com](https://ai.lansejingyu.com/) - 支持 GPT4、4o，简单便捷~
 - [lanjing.ai](https://lanjing.ai/) - 支持 GPT4、4o 支持 MJ 绘画
