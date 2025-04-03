@@ -1,6 +1,6 @@
 # 国内 ChatGPT-4 中文版镜像网站汇总整理（2025年4月更新）【镜像网站合集】     
 
-> 更新日期：2025/04/01   
+> 更新日期：2025/04/94   
 
 给大家整理了一些国内的 **ChatGPT 中文版**，可以直接用的 **ChatGPT中文版镜像网站**
 
@@ -8,7 +8,7 @@
 
 各有优劣，我会在后面备注，大家可以直接用~
 
-**ChatGPT 中文版入口：[https://chat.lanjing.ai](https://chat.lanjing.ai)**   
+**ChatGPT 中文版入口：[https://chat.lanjing.pro](https://chat.lanjing.pro)**   
 **ChatGPT 镜像网站：[https://chat.yixiaai.com](https://chat.yixiaai.com)**
 
 ## 什么是 ChatGPT镜像网站？
